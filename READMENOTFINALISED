@@ -1,0 +1,29 @@
+# Autism Predictor for Children
+
+This is a machine learning model that predicts the likelihood of a child having autism based on a questionnaire filled out by their parent/guardian. The model was developed using [insert programming language, libraries, and tools used].
+
+## How to Use
+
+To use this predictor, simply follow these steps:
+
+1. Download the [insert file name] file from [insert link to where the file can be downloaded].
+2. Fill out the questionnaire in the downloaded file with information about your child's behavior.
+3. Save the completed questionnaire as a CSV file.
+4. Run the predictor by executing the [insert command to run the model] command in your terminal/command prompt and passing in the path to the saved CSV file as an argument.
+5. The predictor will output a prediction of the likelihood of your child having autism, with a value between 0 and 1. A higher value indicates a higher likelihood of autism.
+
+## How It Works
+
+The predictor was developed using [insert details on how the model was trained, including the dataset used, the algorithm used, and any preprocessing/feature engineering done]. The model was evaluated using [insert evaluation metrics used and their scores].
+
+## Limitations
+
+It's important to note that this predictor is not 100% accurate and should not be used as a substitute for a professional diagnosis. If you have concerns about your child's behavior, please consult a medical professional.
+
+## License
+
+This project is licensed under the [insert license type] license. See the [insert filename] file for more details.
+
+## Acknowledgements
+
+Special thanks to [insert any people or organizations you'd like to acknowledge for their contributions or support].
